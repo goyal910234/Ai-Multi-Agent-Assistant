@@ -1,4 +1,3 @@
-# Ai-Multi-Agent-Assistant
 # 🎙️ AI Multi-Agent Voice Assistant
 
 ## 🚀 Overview
